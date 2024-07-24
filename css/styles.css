@@ -3,7 +3,8 @@ body {
     color: #2e2f42;
     background-color: #fff;
 }
-.header {
+.header-container {
+    display: flex;
     flex-direction: row;
 }
 .logo {
