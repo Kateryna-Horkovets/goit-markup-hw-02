@@ -3,6 +3,9 @@ body {
     color: #2e2f42;
     background-color: #fff;
 }
+.header {
+    flex-direction: row;
+}
 .logo {
 font-family: 'Raleway', sans-serif;
 }
@@ -21,7 +24,4 @@ font-family: 'Raleway', sans-serif;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
-}
-.link {
-    text-decoration: none;
 }
