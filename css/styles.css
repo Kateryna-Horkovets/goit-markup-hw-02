@@ -15,7 +15,6 @@ a {
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    
 }
 .logo-w {
     color: #4d5ae5;
@@ -42,6 +41,9 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.navigation-list-link:hover {
+    color: #31d0aa;
 }
 .address-list-link {
     font-weight: 400;
