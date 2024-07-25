@@ -102,6 +102,7 @@ color: #31d0aa;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .our-team-title-list {
@@ -127,6 +128,7 @@ color: #31d0aa;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .our-portfolio-title-list {
